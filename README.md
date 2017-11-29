@@ -1,2 +1,2 @@
-# SJTUOJ-1010
+# SJTUOJ
 SJTUOJ adventure.
