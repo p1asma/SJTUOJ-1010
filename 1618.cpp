@@ -74,3 +74,4 @@ int main() {
 		cout << max[i] << ' ';
 	return 0;
 }
+
